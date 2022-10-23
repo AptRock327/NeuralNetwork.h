@@ -4,7 +4,7 @@ A library in a single, comprehensive, well-commented header file for neural netw
 
 # General information
 
-This is a simple library made for simple AIs. Since it's a neural network, it requires quite some data to work properly. There is an example project in ```example.cpp```. The example project doesn't have much data, but it is still able to get some results.
+This is a simple library made for simple AIs. The only thing that has to be done in order to use the library is including the header file ```NeuralNetwork.h```. Since it's a neural network, it requires quite some data to work properly. There is an example project in ```example.cpp```. The example project doesn't have much data, but it is still able to get some results.
 
 ![plot](results.png) 
 
