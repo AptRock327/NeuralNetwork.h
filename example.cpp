@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <vector>
-#include "neural.h"
+#include "NeuralNetwork.h"
 
 int main()
 {
